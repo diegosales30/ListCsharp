@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\bin\Debug\net7.0\ListCsharp.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\bin\Debug\net7.0\ListCsharp.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\bin\Debug\net7.0\ListCsharp.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\bin\Debug\net7.0\ListCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\bin\Debug\net7.0\ListCsharp.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\refint\ListCsharp.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ListCsharp.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ListCsharp\obj\Debug\net7.0\ref\ListCsharp.dll
